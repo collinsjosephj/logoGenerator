@@ -3,7 +3,13 @@
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   
 ## Description  
+
 This is an example of a Node.js command-line application that takes in user input to generate a logo and save it as an SVG file. The application prompts the user to select a color and shape, provide text for the logo, and save the generated SVG to a .svg file. As a freelance web developer, one will often need simple logos created for projects, and hiring out a graphic designer can be both costly and time-consuming. This CLI application allows the user to quickly generate a basic logo for your needs, helping you save precious time and money. Link to demonstration can be found within the README below. 
+
+## Sources
+
+I utilized YouTube, class docs, W3 Schools, and the solved version particularly for the svg code and the testing code. 
+
 
 - [Description](#description)
 - [Features](#features)
