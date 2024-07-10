@@ -65,7 +65,7 @@ npm run test
 
 Opening the logo.svg file in a browser will show a 300x200 pixel image with the text "UO" in yellow, displayed within an green circle. GO DUCKS!
 
-Link to walk-through video on Google Drive:
+Link to walk-through video on Google Drive: [https://drive.google.com/file/d/1v79OHkJWXA3EV_P7thV2qhw8ACJ2XcAs/view](url)
 
 
 ## Contributing
