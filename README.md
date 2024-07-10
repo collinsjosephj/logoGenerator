@@ -10,6 +10,7 @@ This is an example of a Node.js command-line application that takes in user inpu
 
 I utilized YouTube, class docs, W3 Schools, and the solved version particularly for the svg code and the testing code. 
 
+## Table of Contents
 
 - [Description](#description)
 - [Features](#features)
